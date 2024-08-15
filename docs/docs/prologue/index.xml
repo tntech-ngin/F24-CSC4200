@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Prologue on</title><link>https://doks-child-theme.netlify.app/docs/prologue/</link><description>Recent content in Prologue on</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 06 Oct 2020 08:48:45 +0000</lastBuildDate><atom:link href="https://doks-child-theme.netlify.app/docs/prologue/index.xml" rel="self" type="application/rss+xml"/><item><title>Schedule</title><link>https://doks-child-theme.netlify.app/docs/prologue/schedule/</link><pubDate>Thu, 12 Jan 2023 11:05:37 -0600</pubDate><guid>https://doks-child-theme.netlify.app/docs/prologue/schedule/</guid><description>This is a tentative schedule and will change.
+Grading details #
+Assessment Type Weightage Additional Information Homework 20% Exams (3 exams) 35% Programming Assignments 35% One late submission allowed. 50% deducted for other late submissions. Class Participation 10% Class Schedule #
+Introduction, Social Contract, Expectations - Link to Mural Slides Books - Peterson &amp;amp; Davie, Computer Networks - a systems approach. Labs - Every Friday, in class Week 1- Aug 26-30: #
+Reading assignment for week 1 - Introduction, Chapter 1.</description></item><item><title>Program 1: Network Packet Handling</title><link>https://doks-child-theme.netlify.app/docs/prologue/pa-packet-handling/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://doks-child-theme.netlify.app/docs/prologue/pa-packet-handling/</guid><description>This is an INDIVIDUAL Assignment (Do not collaborate) #
+Instructions #
+Please read the entire instructions and the skeleton code provided for the server and the client before you start coding.
+Setup #
+Create two separate Python files for the server and client, named server.py and client.py, respectively. Copy and paste the provided skeleton code into the respective files. Implementation #
+Server: Complete the server code by implementing the unpack_packet function.</description></item><item><title>Program 2 - Simple Protocol</title><link>https://doks-child-theme.netlify.app/docs/prologue/pa-simple-protocol/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://doks-child-theme.netlify.app/docs/prologue/pa-simple-protocol/</guid><description>This is a GROUP Assignment
+Objectives
+Learn to create network packets.
+Learn how packets can be sent over the network.
+Familiarize you with the concept of sockets.
+Learn packing structures, endianness, unpacking, and interpreting network data.
+Learn how to use actual data from a packet.
+Use packet capture to visually inspect protocols.
+Overview
+In this warmup project, you are going to implement a client and a server program that will send a command over the network.</description></item><item><title>Program 3 - Detect a Person</title><link>https://doks-child-theme.netlify.app/docs/prologue/pa-detect-person/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://doks-child-theme.netlify.app/docs/prologue/pa-detect-person/</guid><description>Objectives
+The objective of this assignment is to design and implement a client-server system using Raspberry Pi devices. The server will control an LED, while the client will sense motion using a Passive Infrared Sensor (PIR) and communicate with the server to blink the LED. The assignment includes establishing a three-way handshake, sending blink duration and count information, acknowledging the data, and responding to motion detection by blinking the LED.</description></item></channel></rss>
