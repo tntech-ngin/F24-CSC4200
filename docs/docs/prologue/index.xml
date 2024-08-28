@@ -2,7 +2,10 @@
 Grading details #
 Assessment Type Weightage Additional Information Homework 20% Exams (3 exams) 35% Programming Assignments 35% One late submission allowed. 50% deducted for other late submissions. Class Participation 10% Class Schedule #
 Introduction, Social Contract, Expectations - Link to Mural Slides Books - Peterson &amp;amp; Davie, Computer Networks - a systems approach. Labs - Every Friday, in class Week 1- Aug 26-30: #
-Reading assignment for week 1 - Introduction, Chapter 1.</description></item><item><title>Program 1: Network Packet Handling</title><link>https://tntech-ngin.github.io/F24-CSC4200/docs/prologue/pa-packet-handling/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F24-CSC4200/docs/prologue/pa-packet-handling/</guid><description>This is an INDIVIDUAL Assignment (Do not collaborate) #
+Reading assignment for week 1 - Introduction, Chapter 1.</description></item><item><title>Lab1</title><link>https://tntech-ngin.github.io/F24-CSC4200/docs/prologue/lab1/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F24-CSC4200/docs/prologue/lab1/</guid><description>Instructions #
+Note: The following guide provides step-by-step instructions for creating and configuring virtual machines (VMs) on the Google Cloud Platform (GCP). Subsequently, the guide outlines the process of establishing network connectivity between these VMs using the “ping” command. This exercise aims to provide students with a practical understanding of cloud-based virtualization, network configuration, and basic connectivity testing. This lab is ungraded.
+Lab Objectives #
+Creating two virtual machines on Google Cloud.</description></item><item><title>Program 1: Network Packet Handling</title><link>https://tntech-ngin.github.io/F24-CSC4200/docs/prologue/pa-packet-handling/</link><pubDate>Thu, 12 Jan 2023 11:09:01 -0600</pubDate><guid>https://tntech-ngin.github.io/F24-CSC4200/docs/prologue/pa-packet-handling/</guid><description>This is an INDIVIDUAL Assignment (Do not collaborate) #
 Instructions #
 Please read the entire instructions and the skeleton code provided for the server and the client before you start coding.
 Setup #
