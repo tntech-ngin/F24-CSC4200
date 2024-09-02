@@ -36,12 +36,12 @@ toc: true
 ### Week 1- Aug 26-30:
  - **Reading assignment for week 1 - Introduction, Chapter 1.2 - 1.5**	
 * Introduction - Terminologies, Circuit vs Packet Switching, Layers, Architectures vs Protocols [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides2.pdf)
-* Network Performance, Bandwidth/Delay, Jitter  [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides3.pdf)
 * Lab (Setting up Google Cloud VMs)
 
 ### Week 2 - Sept 4-6:
 **No class on Sept 2**
 **Reading assignment - Chapter 2-2.5**
+* Network Performance, Bandwidth/Delay, Jitter  [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides3.pdf) [Video Lecture](https://youtu.be/3SF0vw-exfU)
 * Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides-3.pdf)
 * Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides-4.pdf)
 * Lab: Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/Lecture8.pdf)
