@@ -79,6 +79,10 @@ The payload of each UDP packet sent by server and client MUST start with the fol
   +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
   |                     Not Used                            |A|S|F|
   +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+  |								  |
+  |			Payload					  |
+  |								  |
+  +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 ```
 Where:
 
@@ -105,13 +109,13 @@ ___
 
 2. The client then sends the duration and number of blinks as a *payload*.
 
-3. The server acknowledges the duration and the number of blinks.
+3. The server acknowledges the duration and the number of blinks by sending back the duration and number of blinks. It then waits for the client to sense motion.
 
-4. The client senses motion using the PIR.
+4. The client senses motion using the PIR. See here for details on how to connect the PIR to the PI. [Connecting PIR to PI]{https://projects.raspberrypi.org/en/projects/physical-computing/11}
 
 5. When motion is detected, the client logs it, and sends a message with the following string as the payload *<Timestamp>:MotionDetected*
 
-6. The server parses it, logs *<Timestamp>:MotionDetected* to its log, and drives the LED for the pre-determined amount of times.
+6. The server parses it, logs *<Timestamp>:MotionDetected* to its log, and drives (blinks) the LED for the pre-determined amount of times.
 
 8. Client sends a packet with the FIN bit set. The server logs "<Timestamp>:Interaction with <client> completed. This finishes the interaction.
 
@@ -178,6 +182,3 @@ ___
 - Works with other teams' implementation - 10 points (bonus)
 	- Do not collaborate on code but test with each other's code
 	- If your code works with another team's code, you both get 10 points
-
-
-	
