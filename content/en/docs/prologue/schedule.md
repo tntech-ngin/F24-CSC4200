@@ -36,12 +36,12 @@ toc: true
 ### Week 1- Aug 26-30:
  - **Reading assignment for week 1 - Introduction, Chapter 1.2 - 1.5**	
 * Introduction - Terminologies, Circuit vs Packet Switching, Layers, Architectures vs Protocols [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides2.pdf)
+* Network Performance, Bandwidth/Delay, Jitter  [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides3.pdf)
 * Lab (Setting up Google Cloud VMs)
 
 ### Week 2 - Sept 4-6:
 **No class on Sept 2**
 **Reading assignment - Chapter 2-2.5**
-* Network Performance, Bandwidth/Delay, Jitter  [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides3.pdf) [Video Lecture](https://youtu.be/3SF0vw-exfU)
 * Links, Encoding, Frames, Point to point links, Byte Stuffing, Error detection [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides-3.pdf)
 * Reliable Delivery, Stop-n-wait, sliding window [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/class_slides-4.pdf)
 * Lab: Examples and Socket Programming  [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/Lecture8.pdf)
@@ -105,6 +105,10 @@ toc: true
 **Reading assignment** - Chapter 9.1
 * Network Security, Symmetric Key [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/Lecture27.pdf)
 * Network Security, Asymmetric Key [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/Lecture28.pdf)
+* Security - [Lampson Talk](https://www.youtube.com/watch?v=6nadXMSFSjk&t=73s)
+* IPv6 [Slides](https://archive.nanog.org/meetings/nanog51/presentations/Sunday/IPv6_Technology_Overview_Tutorial%20Part_I_rev1.pdf)
+* IPv6 [Jeff Houston Talk](https://www.youtube.com/watch?v=9mSukwT19-U)
+* NDN [Slides](https://tntech-ngin.github.io/F24-CSC4200/lecture_slides/Lecture30.pdf)
 
 
 ### Week of Nov 25 - Nov 29
@@ -116,4 +120,5 @@ toc: true
 
 ### Dec 09
 * Final
+
 
